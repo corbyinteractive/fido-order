@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://fidoorderapp.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">1062965689206</string>
+  <string name="google_storage_bucket" translatable="false">fidoorderapp.appspot.com</string>
+  <string name="project_id" translatable="false">fidoorderapp</string>
+  <string name="google_api_key" translatable="false">AIzaSyBtyqeXRYdW0ylGu3-7u0u4O2f_Bnfktqs</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBtyqeXRYdW0ylGu3-7u0u4O2f_Bnfktqs</string>
+  <string name="google_app_id" translatable="false">1:1062965689206:android:53f03cc4dd06dba7069857</string>
+  <string name="default_android_client_id" translatable="false">1062965689206-qdofqqtl3077lnkn37h8j5gk7909eou4.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">1062965689206-parm6316qp5eouosi9pakgseuurlum6n.apps.googleusercontent.com</string>
+</resources>

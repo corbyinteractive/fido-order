@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elencoLocali>
+	<CollezioneLocali>
+		<Item Nome="Molinetto">
+			<Provincia>RA</Provincia>
+			<Landing> Benvenuti al Molinetto. Consultate il menu e scegliete cosa ordinare. Potete mettere i vostri piatti nella comanda e, quando siete pronti premere il tasto per chiamare il cameriere.</Landing>
+			<LandingGen></LandingGen>
+			<ShortName>MolRa</ShortName>
+			<Base>true</Base>
+			<TakeAway>true</TakeAway>
+			<Delivery>true</Delivery>
+			<HideTotal>true</HideTotal>
+			<CID></CID>
+			<SKE></SKE>
+		</Item>
+	</CollezioneLocali>
+</elencoLocali>

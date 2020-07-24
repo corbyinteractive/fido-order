@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1062965689206-6ffsa033khvap4ksb4ird933oqngeb49.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1062965689206-6ffsa033khvap4ksb4ird933oqngeb49</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1062965689206-qdofqqtl3077lnkn37h8j5gk7909eou4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDP97YJYu-zMj98ll01UWVA_q3bLU1_m30</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1062965689206</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.corbyinteractive.fidoorder</string>
+	<key>PROJECT_ID</key>
+	<string>fidoorderapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fidoorderapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1062965689206:ios:2103bb7bca31a970069857</string>
+	<key>DATABASE_URL</key>
+	<string>https://fidoorderapp.firebaseio.com</string>
+</dict>
+</plist>

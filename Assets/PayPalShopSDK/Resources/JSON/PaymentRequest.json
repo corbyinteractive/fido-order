@@ -1,0 +1,38 @@
+{
+  "intent":"sale",
+  "redirect_urls":{
+    "return_url":"https://amimaniac.wixsite.com/website",
+    "cancel_url":"https://www.paypal.com/myaccount/home"
+  },
+  "payer":{
+    "payment_method":"paypal"
+  },
+   "transactions":[
+    {
+      "amount":{
+        "total":"1379.00",
+        "currency":"EUR"
+      },
+      "description": "Galaxy S20 Ultra 5g",
+      "invoice_number": "122",
+      "item_list": {
+        "items": [
+          {
+            "name": "Galaxy S20 Ultra 5g",
+            "description": "Spedizione Gratuita",
+            "quantity": "1",
+            "price": "1379.00",
+            "currency":"EUR"
+          }
+		 
+        ]
+      }
+    }
+  ],
+   "experience":{
+    "input_fields": {
+	  "no_shipping": 1,
+	  "address_override": 1
+	 }
+   }
+}

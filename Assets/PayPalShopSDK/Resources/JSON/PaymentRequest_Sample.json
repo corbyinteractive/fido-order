@@ -1,0 +1,51 @@
+{
+  "intent":"sale",
+  "redirect_urls":{
+    "return_url":"https://amimaniac.wixsite.com/website",
+    "cancel_url":"https://www.paypal.com/myaccount/home"
+  },
+  "payer":{
+    "payment_method":"paypal"
+  },
+   "transactions":[
+    {
+      "amount":{
+        "total":"",
+        "currency":""
+      },
+      "description": "",
+      "invoice_number": "",
+      "item_list": {
+        "items": [
+          {
+            "name": "",
+            "description": "",
+            "quantity": "1",
+            "price": "",
+            "currency":""
+          },
+		  {
+            "name": "",
+            "description": "",
+            "quantity": "1",
+            "price": "",
+            "currency":""
+          },
+		  {
+            "name": "",
+            "description": "",
+            "quantity": "1",
+            "price": "",
+            "currency":""
+          }
+        ]
+      }
+    }
+  ],
+   "experience":{
+    "input_fields": {
+	  "no_shipping": 1,
+	  "address_override": 1
+	 }
+   }
+}
